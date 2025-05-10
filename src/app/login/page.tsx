@@ -31,7 +31,7 @@ const Login = () => {
                 className="bg-black rounded-full h-5"
               />
               <Link
-                href="https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=http://localhost:3000/onebox"
+                href="https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reachinbox-tau.vercel.app/onebox"
                 className="text-sm text-gray-300 hover:text-white transition"
               >
                 Sign Up with Google
