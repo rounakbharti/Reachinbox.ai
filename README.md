@@ -1,4 +1,15 @@
-# 📬 Reachinbox.Ai
+<div align="left">
+    <img src="ss/logo.png" alt="Logo" width="80" style="float: left; margin-right: 15px;"/> 
+    <div style="padding-left: 20px">
+        <h1 style="text-decoration: none; margin: 0; padding: 0; color: #666; font-weight: bold">
+            reachninbox.ai 
+        </h1>
+    </div>
+</div>
+
+<br clear="both">
+
+##  [Live Demo ](https://reachinbox-tau.vercel.app/onebox)
 
 A full-featured email management web application designed and developed from scratch. This project simulates an email client with streamlined communication workflows including login, inbox (Onebox), replying, shortcut support, and more.
 
@@ -33,23 +44,6 @@ A full-featured email management web application designed and developed from scr
 7. **Dark & Light Mode**
    - Toggle between themes to match user preferences.
 
----
-
-
-
-
-<div align="left">
-    <img src="ss/logo.png" alt="Logo" width="80" style="float: left; margin-right: 15px;"/> 
-    <div style="padding-left: 20px">
-        <h1 style="text-decoration: none; margin: 0; padding: 0; color: #666; font-weight: bold">
-            reachninbox.ai 
-        </h1>
-    </div>
-</div>
-
-<br clear="both">
-
-##  [Live Demo ](https://reachinbox-tau.vercel.app/onebox)
 ---
 
 ##  Application Showcase
@@ -232,7 +226,7 @@ This saves time and mental energy, making it easier to manage high-intent leads 
 git clone https://github.com/rounakbharti/Reachinbox.ai
 
 # Navigate to project directory
-cd reachinbox.ai
+cd Reachinbox.ai
 
 # Install dependencies
 npm install
@@ -277,26 +271,6 @@ src/
 │   └── mailTypes.ts
 
 ```
-## Walkthrough
-
-| Commit Message                               | Description                                                                 |
-|---------------------------------------------|-----------------------------------------------------------------------------|
-| Initial commit from Create Next App         | Started the project with base Next.js setup.                               |
-| project setup with dark theme               | Configured dark theme and initial project structure.                       |
-| onebox base layout                          | Set up foundational layout for the Onebox email client.                    |
-| Sidebar and Header created                  | Created the main UI layout components.                                     |
-| Left Panel - Inbox Header and Email Card    | Implemented left sidebar with inbox and email previews.                    |
-| Middle Pannel - Header and Emails           | Built central panel to show list of emails and headers.                    |
-| Right Panel - Lead Details and Activities   | Developed right panel showing selected email details and interactions.     |
-| Added login ui and /google-login route      | Integrated authentication UI and Google login route.                       |
-| Reply Popup ui and opening with r           | Added reply popup UI, triggered with 'r' shortcut.                         |
-| Delete Mail                                 | Implemented functionality to delete emails.                                |
-| Custom Text Editor - Save Draft, Variables  | Created a custom editor with draft saving and dynamic variable support.    |
-| Empty Mails section                         | Handled UI for when there are no emails in a folder.                       |
-| ui polish and added mail model              | Improved UI design and added mail model schema.                            |
-| Additional Feature: Smart AI responses      | Integrated AI for smart email suggestions and replies.                     |
-| thread timeline, mail summary               | Added threaded conversation timeline and mail summary feature.             |
-
 
 ##  Developer Profile
 
